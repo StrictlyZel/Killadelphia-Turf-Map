@@ -158,29 +158,11 @@ $(function() {
 					enabled: false,
 					url: 'data/territories.4.json',
 				}),
-				new CategoryModel({
-					name: 'Weed Turf',
-					icon: 'radar/radar_weed_stash.png',
-					enabled: false,
-					url: 'data/weed_turf.json',
-				}),
-				new CategoryModel({
-					name: 'Heists',
-					icon: 'radar/radar_heist.png',
-					enabled: false,
-					url: 'data/heists.4.json',
-				}),
-				new CategoryModel({
+								new CategoryModel({
 					name: 'Legal',
 					icon: 'radar/radar_police_station.png',
-					enabled: false,
+					enabled: true,
 					url: 'data/legal.4.json',
-				}),
-				new CategoryModel({
-					name: 'Restaurants',
-					icon: 'radar/radar_bar.png',
-					enabled: false,
-					url: 'data/restaurants.4.json',
 				}),
 			]),
 		}),
