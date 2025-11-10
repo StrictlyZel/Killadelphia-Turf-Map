@@ -147,6 +147,12 @@ $(function() {
 					enabled: true,
 					url: 'data/medical.json',
 				}),
+				new CategoryModel({
+					name: 'Legal',
+					icon: 'radar/radar_police_station.png',
+					enabled: true,
+					url: 'data/legal.4.json',
+				}),
 			]),
 		}),
 		new SectionModel({
@@ -157,12 +163,6 @@ $(function() {
 					icon: 'General/wall-breach.png',
 					enabled: false,
 					url: 'data/territories.4.json',
-				}),
-								new CategoryModel({
-					name: 'Legal',
-					icon: 'radar/radar_police_station.png',
-					enabled: true,
-					url: 'data/legal.4.json',
 				}),
 			]),
 		}),
