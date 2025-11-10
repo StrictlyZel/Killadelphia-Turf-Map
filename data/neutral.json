@@ -1,7 +1,7 @@
 [
 	{
 		"title": "Crapphuise Apartments",
-		"notes": "The Apartments is where new players wake up.",
+		"notes": "",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "222222",
@@ -18,7 +18,7 @@
 	},
 	{
 		"title": "Bahama Mamas",
-		"notes": "Bahama Mamas is a nightclub located in Del Perro, Los Santos.",
+		"notes": "",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "0080FF",
@@ -40,7 +40,7 @@
 	},
 	{
 		"title": "Bean Manor",
-		"notes": "Marlo Stanfield and Fiona Stewart's mansion. It is affiliated Cleanbois.",
+		"notes": "",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "E09573",
@@ -165,7 +165,7 @@
 	},
 	{
 		"title": "Integrity Tower",
-		"notes": "The upgraded apartments for high-class citizens.",
+		"notes": "",
 		"order": 0,
 		"strokecolor": "222222",
 		"fillcolor": "0080FF",
@@ -181,7 +181,7 @@
 	},
 	{
 		"title": "LSBN",
-		"notes": "Los Santos Broadcast Network (LSBN) is a media and entertainment organization. The company is based out of the upper floors of the LS News Center building, on the corner of Lindsay Circus and Palomino Avenue in Little Seoul.",
+		"notes": "",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "0080FF",
@@ -262,7 +262,7 @@
 	},
 	{
 		"title": "The Vinewood Racetrack",
-		"notes": "4EQ is an entertainment and event planning company operating out of East Vinewood. They own the Vinewood Racetrack, which is behind Diamond Casino and Resort, currently occupy the QuickFix near the Racetrack as one of their less official meeting locations, and were given office #3 in East Vinewood on the corner of Occupation Avenue & Power Street by Thomas Dwayne to conduct official business. They have no direct affiliation with the casino despite their sharing of a campus. 4EQ's name is a shortening of The Four Equestrians.",
+		"notes": "",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "00CAD8",
@@ -308,7 +308,7 @@
 	},
 	{
 		"title": "You Tool",
-		"notes": "A place to buy repair kits, radios, and body armor.",
+		"notes": "",
 		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "0080FF",

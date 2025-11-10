@@ -49,8 +49,8 @@
 	},
 	{
 		"title": "Mission Row PD",
-		"notes": "The Los Santos Police Department, along with the Sheriff's Office, makes up the executive branch of Los Santos; together they ensure that the law is upheld and enforced.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Los_Santos_Police_Department",
+		"notes": "",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
@@ -64,7 +64,7 @@
 	{
 		"title": "PBSO",
 		"notes": "Paleto Bay Sheriff's Office headquarters.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Paleto_Bay_Sheriff%27s_Office",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
@@ -83,7 +83,7 @@
 	{
 		"title": "SDSO",
 		"notes": "The Senora Desert Sheriff's Office ensures crime is upheld and enforced.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Senora_Desert_Sheriff's_Office",
+		"wiki_link": "e",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
@@ -97,7 +97,7 @@
 	{
 		"title": "The Courthouse",
 		"notes": "",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Department_of_Justice",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
