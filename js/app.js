@@ -183,6 +183,7 @@ $(function() {
 					url: 'data/restaurants.4.json',
 				}),
 			]),
+		}),
 	]);
 	
 	var showingLabels;
