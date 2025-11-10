@@ -159,7 +159,7 @@ $(function() {
 			name: 'Factions',
 			categories: new CategoriesCollection([
 				new CategoryModel({
-					name: 'Territories',
+					name: 'Coming Soon...',
 					icon: 'General/wall-breach.png',
 					enabled: false,
 					url: 'data/territories.4.json',
